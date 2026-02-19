@@ -1,0 +1,10 @@
+site_name: cardápio bardopastel
+theme:
+  name: material
+  palette:
+    scheme: slate
+
+
+nav:
+- index: index.md
+- Cardápio: Cardápio.md
